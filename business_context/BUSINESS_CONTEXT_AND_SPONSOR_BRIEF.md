@@ -1,7 +1,5 @@
-> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
-
 # Beaconbridge — commercial transformation context and sponsor brief
-**Mettelo Business Analyst Project Studio · MTL-BA-045 · v2.0 · Stage 1**
+**Mettelo Business Analyst Project Studio · MTL-BA-045 · aligned pathway edition · Stage 1**
 Issued 6 July 2026 by Emma Clarke, Commercial Director. All local companies, people, accounts, amounts and communications are synthetic.
 
 ## Organisation and commercial model
@@ -45,31 +43,67 @@ Planning rates are £40/hour seller capacity, £32/hour Marketing, £42/hour Fin
 
 Doing nothing may preserve missed follow-up, untrusted information and weak handover as acquisition grows. An unsuitable CRM may reproduce those definitions, add administrative burden and move contact data without appropriate review. Leadership needs a business decision, not a vendor comparison based only on demo appeal.
 
-## Sponsor initiation
-Emma reports to the Managing Director and owns commercial performance. She can sponsor scope/funding proposals, but Finance owns order/revenue definitions, data owners approve record changes and the relevant adviser reviews permitted contact use. Procurement and technology approvals remain separate.
 
-“I want one trusted commercial view and a workable handover. I initially asked to buy a CRM. Show me what must change in our definitions, ownership and working practices, what current tools can do and what investment adds value. I do not want a dashboard that confidently repeats the wrong forecast.”
+## Business need for this commission
 
-Initial envelope: £80,000 one-off including £6,000 committed to discovery/support; £18,000 annual incremental operating ceiling, excluding recoverable VAT. Include interface, data repair/migration, adoption, training/backfill, assurance and support. No supplier is selected.
+Lead and opportunity information lives in shared sheets, personal workbooks and other systems. Sellers need quick follow-up, Marketing wants useful attribution, Finance questions forecasts and Service needs reliable won-order handover. A large CRM purchase could absorb the budget without delivering the first useful capability.
 
-Analysis runs 6 July–28 August, with desired limited operational pilot 12 October before the autumn campaign. The August prototype is an isolated experiment, not actual customer selling or an operational launch. Each function can normally provide one focused 45-minute session weekly.
+The business needs a coherent minimum viable product (MVP), not an undifferentiated list of every department’s request. Agile product analysis must show whose problem a release solves, what user behaviour creates value and how each included story can be accepted.
 
-## Proposed outcomes and contested success measures
-Emma proposes fewer overdue follow-ups, clear lead ownership, a Finance-reconcilable forecast and usable service handover. Sales wants a conversion target; Marketing wants attribution and a response commitment; Finance wants snapshot and order definitions; Service wants agreed scope/contact restrictions.
+## Illustrative business situation to investigate
 
-No percentage target or stage exit criteria are approved. The BA must propose measures, population/cohort, baseline, owner, exclusions and review period. A reduction in recorded overdue tasks could mean better action or missing next-action dates. A forecast can be consistently calculated yet based on unsupported probabilities.
+After a visit, a seller wants to capture the next action on a phone without completing a long form. The lead may belong to a branch of an existing legal customer. Marketing wants campaign context, the sales manager wants a meaningful forecast and Service should only act on an accepted commitment. The team must explore a small usable slice while resolving data/permission uncertainty; no approved pipeline or story solution is supplied.
+
+This is a source scenario. Your team must analyse it; it is not an approved process, detailed use case or designed solution.
+
+## Sponsor commission and authority
+
+Emma Clarke, the commissioning sponsor commissions your team as agile product business analysts. The decision is: **Which coherent MVP capability should be prioritised for a six-seller release, which work should be deferred, and what backlog and acceptance evidence justify that choice?**
+
+The requested handover is: **A product goal, evidence-backed user view, MVP/story map, prioritised backlog, low-fidelity interaction design and release recommendation ready for refinement.**
+
+Sellers favour low-friction capture, management asks for complete reporting, Marketing wants attribution, Finance separates forecasts from revenue and Service needs accurate commitments. Mandatory fields, contact imports and account merging may help one group while harming another.
+
+The sponsor can request analysis but cannot substitute for Sales, Finance, Service, privacy and funding owners. Identify material approvals and unknowns without fabricating named reviewers or sign-off.
 
 ## Scope and exclusions
-Investigate lead capture, qualification, opportunity progression, forecast input, account/site identity, order handover and relevant customer visibility. Include data-use restrictions, access, exceptions, reporting and adoption. Exclude replacing CoreERP, revenue-recognition policy redesign, automated marketing campaigns, universal personal-inbox migration and an enterprise customer-data platform.
 
-An account/site merge, contact import or new marketing use needs the appropriate decision. No real personal data, bulk outreach, production migration or live purchase is authorised. A wider scope must be recorded.
+**Included:** Lead capture/follow-up, relevant account/site context, opportunity progression, forecast inputs and sales-to-service handover to the extent justified for the chosen MVP. Consider existing ERP capability, data-use decisions and seller adoption as constraints.
 
-## Dependencies and uncertainty
-Dependencies include Finance definitions, business data owners, seller participation, ERP capability confirmation, supplier/interface review, contact-use evidence, support and customer-service involvement. IT has other September commitments. A source catalogue is not a contracted integration or user adoption.
+**Outside this assignment:** No full FRD, enterprise data-platform design, complete API specification, production CRM implementation, bulk contact import, live marketing or approved revenue policy redesign. A prototype may be low fidelity; coding is not required.
 
-Known concerns include unassigned leads, repeated capture, stale personal/shared copies, probability/amount differences, incomplete handovers and unknown contact-use evidence. These are source concerns, not completed participant RAID or cause analysis.
+## Constraints and evidence limitations
 
-Emma initially names Sales, Marketing, a field seller, Finance, IT, Service, a data/privacy adviser and a customer. She does not know which differences are timing versus errors, the full duplicate population, the value of missed follow-up or which ERP features are already licensed.
+The initial one-off envelope is £80,000 including £6,000 committed, with an £18,000 annual incremental ceiling. Later funding, ERP and timing evidence may change scope. No team velocity or committed engineering capacity is supplied; proposed sequencing must disclose assumptions.
 
-## Decision sought
-Recommend whether and how to change process, definitions, ownership, existing-tool configuration or purchased capability, with complete costs, priorities, conditions and evaluation. Explain uncertainty and responsible sequencing. No approved pipeline, conceptual model, requirements, option score, migration rule or preferred CRM is supplied.
+The learning commission lasts 5 cohort weeks. Original dates in operational records remain source history; later operational ambitions do not extend the assessed scope. Staff availability is limited: plan proportionate elicitation using supplied interviews and record follow-up questions when real access is unavailable.
+
+The dataset is constructed, observed at its stated cutoff and incomplete for some business questions. An absent event is not always proof an event did not happen. Do not claim representative research, causality, approved targets or realised outcomes merely from these records. Use [the data guide](../evidence/DATA_GUIDE.md) and [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md).
+
+## How the evidence supports the work
+
+| Evidence | Analytical purpose | Relevant tasks |
+|---|---|---|
+| Interviews and product discovery/feedback supplement | Understand competing user goals and known interaction concerns without inventing completed research. | A1–A2, A5 |
+| Leads, accounts, opportunities and forecast snapshots | Ground product outcomes and data-quality concerns in reproducible evidence. | A1–A4 |
+| Orders and Service evidence | Distinguish won/forecast/accepted order and identify handover needs. | A2–A5 |
+| System context and raw options pack | Evaluate existing capability and scope dependencies; supplier quotes are not priority decisions. | A3, A6 |
+| Budget, ERP and timing notices | Re-slice MVP and refine release assumptions while preserving a coherent user outcome. | A3–A7 |
+
+## What leadership needs to receive
+
+Product decision-makers can understand the release goal, follow a realistic user journey through included stories, test their acceptance conditions and see why other requests are deferred. Prototype feedback and unresolved research are represented honestly.
+
+| Task | Required handover content | Assessment weight |
+|---|---|---|
+| A1 | Product goal; proposed outcome measures; product boundary, exclusions and decision owners. | 10% |
+| A2 | Evidence-backed personas; opportunity map; competing needs and explicitly unvalidated assumptions. | 15% |
+| A3 | MVP definition; user-activity story map; included/deferred scope and prioritisation rationale. | 20% |
+| A4 | Epics; 12–18 prioritised user stories with stable IDs, observable acceptance criteria, dependencies and research spikes where needed. | 25% |
+| A5 | Low-fidelity wireframes or clickable prototype covering at least three linked interactions; error/permission states; feedback or labelled self-review. | 15% |
+| A6 | Refinement log; release plan using story IDs; product acceptance approach distinguishing story criteria, Definition of Ready and Definition of Done. | 10% |
+| A7 | Product playback and indexed backlog baseline; MVP narrative, trade-offs, decision requests and next learning steps. | 5% |
+
+Use [the task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) for the four acceptance criteria per task and [the submission checklist](../submission/DELIVERABLES_CHECKLIST.md) for the exact handover package. These define the commission; historical stakeholder ambitions are inputs to evaluate, not extra mandatory portfolios.
+
+No preferred solution or completed learner artefacts are provided.

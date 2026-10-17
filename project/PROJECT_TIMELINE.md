@@ -13,3 +13,8 @@ Weeks are relative to cohort start. Original source dates remain part of the fic
 A1–A2 begin in week 1; A3 in week 2; A4–A5 in week 3; A6 in week 4; A7 in week 5.
 
 The [manifest](RELEASE_MANIFEST.csv) controls when sources become available. Optional later experiment material has no mandatory UAT task. No elapsed simulation week constitutes stakeholder approval or an executed implementation.
+
+
+## Team handover check
+
+Use [the project-specific deliverables checklist](../submission/DELIVERABLES_CHECKLIST.md) to verify every required component and final submission record. The checklist specifies packaging; the task acceptance criteria define analytical quality.
