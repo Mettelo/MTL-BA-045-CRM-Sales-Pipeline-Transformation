@@ -21,29 +21,11 @@ The established Mettelo model requires access to files, branches, commit history
 
 No reviewer account, portal URL or form link is invented in this guide. Use the route Mettelo provides. Confirm the reviewer can actually open the repository and the submitted version; a copied URL alone is not verification. Keep access active until review and verification are complete. A private repository is not a completed submission if the reviewer cannot inspect it.
 
-## 3. Establish a professional structure
+## 3. Organise the pathway portfolio
 
-The participant's repository should separate original evidence from their analysis and make the decision trail easy to follow. One suitable arrangement is:
+Use a README, CONTRIBUTIONS.md, preserved raw evidence, your own analysis folder and submission/FINAL_SUBMISSION.md. Organise analysis around this project's task IDs. There is no mandatory common lifecycle folder structure.
 
-```text
-README.md
-CONTRIBUTIONS.md
-data/raw/                  supplied evidence, unchanged
-data/analysis/             calculations and transformation notes
-docs/initiation/
-docs/discovery/
-docs/current-state/
-docs/requirements/
-docs/options-and-future-state/
-docs/change/
-docs/assurance/
-docs/recommendation-and-benefits/
-submission/FINAL_SUBMISSION.md
-```
-
-This is a delivery organisation example, not a set of pre-completed templates. Equivalent structures are acceptable if reviewers can locate the work and its history. Use an index rather than duplicating the same content in multiple documents. Retain only sources the cohort has released; do not copy future stages early for a controlled exercise.
-
-Your README must explain the fictional engagement, your role and scope, repository navigation, evidence/release version, how to reproduce calculations, the recommendation and its limitations. Label it a **Mettelo simulated Business Analyst engagement** and identify individual/team contributions and AI assistance honestly.
+Your README identifies the simulated Mettelo commission, role, scope, source versions, navigation, calculation instructions and authorship/AI assistance.
 
 ## 4. Work through issues, branches and pull requests
 
@@ -59,26 +41,23 @@ Each contributor uses their own GitHub account. Keep CONTRIBUTIONS.md current wi
 
 For individual delivery, identify your own work, source material, external assistance and any simulated/unavailable validation. A stakeholder interview supplied by Mettelo is source evidence, not an interview you personally conducted with a real client.
 
-## 6. BA-specific portfolio coverage
+## 6. Required pathway outputs
 
-Provide your own:
+- **A1:** Product goal, outcome measures and product boundary.
+- **A2:** Evidence-backed personas and opportunity map.
+- **A3:** MVP definition, story map and prioritisation rationale.
+- **A4:** Epics and 12–18 prioritised user stories with acceptance criteria.
+- **A5:** Low-fidelity wireframes or clickable prototype and feedback record.
+- **A6:** Refinement log, release plan and product acceptance approach.
+- **A7:** Product playback and indexed backlog baseline.
 
-- Business need, scope, assumptions and stakeholder analysis, supported by an elicitation record and unresolved questions.
-- Current-state and proposed process models, with exception paths and evidence-based distinction between symptoms and plausible causes.
-- Business, functional, non-functional and transition requirements; business-rule proposals; appropriate use cases or user stories; and testable acceptance criteria.
-- Prioritisation and options analysis with cost completeness, uncertainty, operational effort and control implications.
-- Traceability connecting material sources, needs, requirements, decisions, changes, acceptance evidence and intended outcomes.
-- RAID, response to all three change notices, and versioned baseline decisions.
-- UAT approach and participant-created scenarios, analysis of supplied observations, defect/issue decisions and a readiness recommendation.
-- Final recommendation, communication/playback material, change/adoption implications and benefits evaluation.
-
-The assessor rewards quality and coherence, not one document per bullet. Do not submit the supplied sources or supplier notebook as though they were your analysis. Do not fabricate stakeholder approval where the simulation cannot provide it.
+Index each task and its acceptance criteria in FINAL_SUBMISSION.md. These replace generic end-to-end portfolio requirements. The endpoint is: A coherent, prioritised MVP product backlog and release recommendation, ready for refinement. No complete FRD, enterprise integration specification or implemented CRM.
 
 ## 7. Reproduce and review
 
 Preserve raw CSVs. Explain joins, filters, cohorts, cutoff dates, formulas, units and exclusions for every material calculation. Keep diagrams readable, source references accessible and versions consistent. Describe validation checks in plain language. No paid tool, executable system or production deployment is required.
 
-Before handover, check names/dates/numbers, link targets, open-case treatment, payment retries, traceability, requirement testability, unresolved conflicts, change impacts, UAT independence and cost assumptions. Remove real personal data and credentials. Include limitations that could change the decision.
+Before handover, check evidence references, dates, numbers, terminology, diagram readability, consistency between outputs and every task acceptance criterion. Include limitations that could change the decision.
 
 ## 8. Final submission record and freeze
 

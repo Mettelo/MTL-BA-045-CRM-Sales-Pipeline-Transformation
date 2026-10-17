@@ -1,33 +1,30 @@
-# Participant commissioning brief
-**Mettelo Business Analyst Project Studio · MTL-BA-045 · v2.0 · Stage 1**
-**Appointment:** Business Analyst · **Window:** 6 July–28 August 2026
+# MTL-BA-045 — commissioned assignment
 
-## Commission and decision
-You are joining Beaconbridge Workplace Solutions Ltd. Leads and opportunities live in separate spreadsheets and inboxes, Finance disputes the forecast and Customer Service receives incomplete handovers.
-The sponsor favours purchasing a new CRM before the autumn campaign. Treat that as a hypothesis. Your commission is to establish the business need, investigate competing accounts and recommend an intervention, sequence or qualified deferral. Leadership needs a decision it can fund and govern, not a catalogue of attractive features.
+**Mettelo Business Analyst Project Studio · distinct pathway edition**
 
-The [business context and sponsor brief](../business_context/BUSINESS_CONTEXT_AND_SPONSOR_BRIEF.md) describes the organisation, source management information, initial boundary, funding and uncertainty. It is source material, not your finished problem statement, scope analysis or business case.
+## Role and business decision
+You are the Agile Product Business Analyst. What smallest useful CRM capability should Beaconbridge prioritise for six sellers, and what evidence and acceptance conditions make that release credible?
 
-## Your responsibilities
-You lead analysis, elicitation, modelling, facilitation and an evidence-based recommendation. You do not grant policy exceptions, legal/clinical/security approval, procurement authority or production access. Establish who should validate each material claim and who must decide.
+A coherent, prioritised MVP product backlog and release recommendation, ready for refinement. No complete FRD, enterprise integration specification or implemented CRM.
 
-Cover stakeholder analysis and elicitation; current and proposed processes with exceptions; cause investigation; business, functional, non-functional and transition requirements; rule proposals; appropriate use cases/stories and acceptance criteria; priorities; options/costs; traceability; RAID/change impacts; UAT/readiness; and benefits evaluation. Choose formats that support the decision, rather than one document for every label.
+## Required work
+| ID | Task | Required output | Assessment weight |
+|---|---|---|---|
+| A1 | Frame the product outcome | Product goal, outcome measures and product boundary | 10% |
+| A2 | Understand users and opportunities | Evidence-backed personas and opportunity map | 15% |
+| A3 | Shape an MVP | MVP definition, story map and prioritisation rationale | 20% |
+| A4 | Refine the product backlog | Epics and 12–18 prioritised user stories with acceptance criteria | 25% |
+| A5 | Explore interactions | Low-fidelity wireframes or clickable prototype and feedback record | 15% |
+| A6 | Prepare a feasible release | Refinement log, release plan and product acceptance approach | 10% |
+| A7 | Present the product recommendation | Product playback and indexed backlog baseline | 5% |
 
-Lead capture, company/account, opportunity, forecast, accepted order and recognised revenue are different units. Preserve source/attribution and contact-use evidence; a similar name or shared registration does not by itself approve merging sites, histories or permissions.
+The [task specification](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines evidence and pass conditions for every output. Equivalent document formats are acceptable; omissions of analytical content are not. This is a 5-week learning commission, not a requirement to deliver a live business implementation.
 
-## Decision-quality expectations
-Distinguish observed events, interpretations, proposed targets and unknowns. An interview statement is not automatically an approved requirement. A policy excerpt may conflict with an uncontrolled note. A supplier demonstration is not proof of a contracted interface or a successful implementation.
+## Working agreement
+Use supplied facts, conflicting stakeholder accounts and synthetic source records. Make calculations reproducible; distinguish evidence, interpretation, proposal and unresolved approval. Reference actual source paths and row/case IDs. Do not invent stakeholder sign-off, real research, executed tests or realised benefits. External references supply context, not automatic approval of your proposals.
 
-Any options analysis should consider the minimum credible change as well as more substantial approaches. Explain complete incremental cost, staff capacity, dependencies, exclusions, adoption and control implications. Make assumptions explicit and say what evidence could change the recommendation.
+## Commission precedence
+This brief, task criteria, assessment, timeline and release manifest supersede earlier generic end-to-end assignment instructions. Source packs retain historical requests and evolving assumptions to analyse. They are not additional deliverable lists. Record material contradictions and decide how they affect this commission.
 
-## Evidence and validation
-The source release model deliberately gives incomplete information. Ask follow-ups with a purpose. If the source or facilitator cannot establish a fact, record its consequence rather than inventing an answer. Record disagreement and authority; do not manufacture stakeholder sign-off.
-
-The later prototype experiment is a disputed supplier approach, not necessarily your design. Define independent acceptance evidence before reading results. Explain what the observations do and do not establish and distinguish a recommendation to investigate from a decision to release.
-
-## Boundaries and handover
-The commissioned boundary and exclusions appear in the sponsor brief. Do not silently expand the engagement or substitute technology delivery for business analysis. No real personal data, production transactions or credentials belong in this exercise.
-
-Use your own separate MTL-BA-045-<team-name> delivery repository and the [established submission model](../submission/SUBMISSION_GUIDELINES.md). Retain raw evidence, versioned baselines, individual contribution and review history. Final handover is the tagged delivery repository URL and indexed recommendation/evidence portfolio through Mettelo's cohort route.
-
-Use the [timeline](PROJECT_TIMELINE.md), [delivery guide](DELIVERY_GUIDE.md) and [assessment rubric](ASSESSMENT_CRITERIA.md). Success means a reviewer can follow the need, evidence, choices, changes, acceptance conditions and intended value, including the limits of your conclusion. No completed BA answers are supplied.
+## Submission
+Submit the indexed outputs above in your own delivery repository using [Mettelo's submission model](../submission/SUBMISSION_GUIDELINES.md).
