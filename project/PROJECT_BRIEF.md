@@ -1,28 +1,33 @@
-# Project brief
+# Participant commissioning brief
+**Mettelo Business Analyst Project Studio · MTL-BA-045 · v2.0 · Stage 1**
+**Appointment:** Business Analyst · **Window:** 6 July–28 August 2026
 
-## Appointment
+## Commission and decision
+You are joining Beaconbridge Workplace Solutions Ltd. Leads and opportunities live in separate spreadsheets and inboxes, Finance disputes the forecast and Customer Service receives incomplete handovers.
+The sponsor favours purchasing a new CRM before the autumn campaign. Treat that as a hypothesis. Your commission is to establish the business need, investigate competing accounts and recommend an intervention, sequence or qualified deferral. Leadership needs a decision it can fund and govern, not a catalogue of attractive features.
 
-You are the Business Analyst assigned to Beaconbridge Workplace Solutions Ltd. A B2B sales team manages leads through spreadsheets and inboxes. Marketing cannot reconcile lead sources to revenue, Finance distrusts forecasts and Sales wants a new CRM. Existing ERP capability has not been assessed.
+The [business context and sponsor brief](../business_context/BUSINESS_CONTEXT_AND_SPONSOR_BRIEF.md) describes the organisation, source management information, initial boundary, funding and uncertainty. It is source material, not your finished problem statement, scope analysis or business case.
 
-The sponsor's preferred purchase is a hypothesis. Establish the business need, investigate conflicting accounts and make a defensible recommendation. Budget: £80,000 one-off and £18,000 annual operating cost; eight-week analysis engagement, followed by a separately authorised pilot. No production implementation is authorised by this exercise.
+## Your responsibilities
+You lead analysis, elicitation, modelling, facilitation and an evidence-based recommendation. You do not grant policy exceptions, legal/clinical/security approval, procurement authority or production access. Establish who should validate each material claim and who must decide.
 
-## Boundary
+Cover stakeholder analysis and elicitation; current and proposed processes with exceptions; cause investigation; business, functional, non-functional and transition requirements; rule proposals; appropriate use cases/stories and acceptance criteria; priorities; options/costs; traceability; RAID/change impacts; UAT/readiness; and benefits evaluation. Choose formats that support the decision, rather than one document for every label.
 
-Lead capture, qualification, opportunity management, sales-to-order handover and customer visibility. Include data quality, consent/preference handling, forecast definitions and adoption. Exclude ERP replacement, automated marketing campaigns and revenue-recognition policy changes.
+Lead capture, company/account, opportunity, forecast, accepted order and recognised revenue are different units. Preserve source/attribution and contact-use evidence; a similar name or shared registration does not by itself approve merging sites, histories or permissions.
 
-## Expected participant work
+## Decision-quality expectations
+Distinguish observed events, interpretations, proposed targets and unknowns. An interview statement is not automatically an approved requirement. A policy excerpt may conflict with an uncontrolled note. A supplier demonstration is not proof of a contracted interface or a successful implementation.
 
-Produce a problem/scope statement, elicitation plan and stakeholder analysis; current-state and future-state models; evidence-based root-cause analysis; requirements and business rules; prioritisation and traceability; options appraisal with costs/assumptions; acceptance criteria and UAT approach; change impacts, transition controls and benefits evaluation. Choose useful notation rather than completing templates mechanically.
+Any options analysis should consider the minimum credible change as well as more substantial approaches. Explain complete incremental cost, staff capacity, dependencies, exclusions, adoption and control implications. Make assumptions explicit and say what evidence could change the recommendation.
 
-## Success
+## Evidence and validation
+The source release model deliberately gives incomplete information. Ask follow-ups with a purpose. If the source or facilitator cannot establish a fact, record its consequence rather than inventing an answer. Record disagreement and authority; do not manufacture stakeholder sign-off.
 
-Sponsor aspiration: trusted ownership and pipeline, fewer missed follow-ups and a forecast that Finance can reconcile. Distinguish opportunity value, probability-weighted forecast, booked orders and recognised revenue. No conversion target is approved until denominators and cohorts are agreed.
+The later prototype experiment is a disputed supplier approach, not necessarily your design. Define independent acceptance evidence before reading results. Explain what the observations do and do not establish and distinguish a recommendation to investigate from a decision to release.
 
-Agree definitions, denominators, baseline period, exclusions and ownership before treating targets as approved. Quantify uncertainty and distinguish evidence from stakeholder opinion.
+## Boundaries and handover
+The commissioned boundary and exclusions appear in the sponsor brief. Do not silently expand the engagement or substitute technology delivery for business analysis. No real personal data, production transactions or credentials belong in this exercise.
 
-## Decisions
+Use your own separate MTL-BA-045-<team-name> delivery repository and the [established submission model](../submission/SUBMISSION_GUIDELINES.md). Retain raw evidence, versioned baselines, individual contribution and review history. Final handover is the tagged delivery repository URL and indexed recommendation/evidence portfolio through Mettelo's cohort route.
 
-Sponsor approves scope/funding. Operational owners validate working practices. Relevant control owners approve policy and safety/security interpretations. The BA facilitates and records decisions; the BA cannot waive controls.
-
----
-Mettelo Business Analyst Project Studio | MTL-BA-045 | Fictional simulation source | Release 1
+Use the [timeline](PROJECT_TIMELINE.md), [delivery guide](DELIVERY_GUIDE.md) and [assessment rubric](ASSESSMENT_CRITERIA.md). Success means a reviewer can follow the need, evidence, choices, changes, acceptance conditions and intended value, including the limits of your conclusion. No completed BA answers are supplied.

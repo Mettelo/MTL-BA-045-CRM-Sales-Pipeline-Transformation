@@ -1,3 +1,0 @@
-loss_record_id,opportunity_id,recorded_date,reason_code,recorded_by,customer_confirmed
-LOSS01,O003,2026-06-26,price,Amir,no
-LOSS02,O008,2026-06-30,no_response,Dan,no

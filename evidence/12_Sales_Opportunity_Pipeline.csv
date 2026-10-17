@@ -1,9 +1,0 @@
-opportunity_id,lead_id,account_id,owner,stage_label,value_gbp,probability_pct,expected_close_date,status,erp_order_id
-O001,L001,C001,Amir,won,25000,100,2026-06-25,won,ORD001
-O002,L002,C002,Beth,proposal,40000,50,2026-07-15,open,
-O003,L003,C003,Amir,lost,30000,0,2026-06-26,lost,
-O004,L004,C004,Dan,committed,50000,60,2026-07-10,open,
-O005,L006,C006,Dan,won,18000,100,2026-06-29,won,ORD002
-O006,L007,C007,Amir,discovery,22000,20,2026-08-15,open,
-O007,L009,C008,Beth,proposal,30000,50,2026-07-20,open,
-O008,L010,C010,Dan,lost,15000,0,2026-06-30,lost,
