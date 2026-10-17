@@ -1,6 +1,6 @@
 # Mettelo BA-045 — separate delivery repository and submission guidelines
 
-**Mettelo Business Analyst Project Studio · MTL-BA-045 · v2.0**  
+**Mettelo Business Analyst Project Studio · MTL-BA-045 · aligned pathway edition**  
 This guide adapts the established Mettelo submission and team-repository standards linked in [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md). The master is a resource library, not a place to submit participant answers.
 
 ## 1. Create the delivery repository
@@ -41,17 +41,25 @@ Each contributor uses their own GitHub account. Keep CONTRIBUTIONS.md current wi
 
 For individual delivery, identify your own work, source material, external assistance and any simulated/unavailable validation. A stakeholder interview supplied by Mettelo is source evidence, not an interview you personally conducted with a real client.
 
-## 6. Required pathway outputs
+## 6. Exact required team handover
 
-- **A1:** Product goal, outcome measures and product boundary.
-- **A2:** Evidence-backed personas and opportunity map.
-- **A3:** MVP definition, story map and prioritisation rationale.
-- **A4:** Epics and 12–18 prioritised user stories with acceptance criteria.
-- **A5:** Low-fidelity wireframes or clickable prototype and feedback record.
-- **A6:** Refinement log, release plan and product acceptance approach.
-- **A7:** Product playback and indexed backlog baseline.
+**Decision the team supports:** Which coherent MVP capability should be prioritised for a six-seller release, which work should be deferred, and what backlog and acceptance evidence justify that choice?
 
-Index each task and its acceptance criteria in FINAL_SUBMISSION.md. These replace generic end-to-end portfolio requirements. The endpoint is: A coherent, prioritised MVP product backlog and release recommendation, ready for refinement. No complete FRD, enterprise integration specification or implemented CRM.
+**Audience:** The product decision-makers in Sales, Marketing, Finance, Service and IT.
+
+| Task | Required content | Weight |
+|---|---|---|
+| A1 | Product goal; proposed outcome measures; product boundary, exclusions and decision owners. | 10% |
+| A2 | Evidence-backed personas; opportunity map; competing needs and explicitly unvalidated assumptions. | 15% |
+| A3 | MVP definition; user-activity story map; included/deferred scope and prioritisation rationale. | 20% |
+| A4 | Epics; 12–18 prioritised user stories with stable IDs, observable acceptance criteria, dependencies and research spikes where needed. | 25% |
+| A5 | Low-fidelity wireframes or clickable prototype covering at least three linked interactions; error/permission states; feedback or labelled self-review. | 15% |
+| A6 | Refinement log; release plan using story IDs; product acceptance approach distinguishing story criteria, Definition of Ready and Definition of Done. | 10% |
+| A7 | Product playback and indexed backlog baseline; MVP narrative, trade-offs, decision requests and next learning steps. | 5% |
+
+Use [DELIVERABLES_CHECKLIST.md](DELIVERABLES_CHECKLIST.md) to check package content, suggested paths and final repository records. The [task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines four analytical acceptance criteria per task. The final submission index must have a row for each task ID and link all required components. Grouping documents is acceptable; omitted analysis is not.
+
+No full FRD, enterprise data-platform design, complete API specification, production CRM implementation, bulk contact import, live marketing or approved revenue policy redesign. A prototype may be low fidelity; coding is not required.
 
 ## 7. Reproduce and review
 
