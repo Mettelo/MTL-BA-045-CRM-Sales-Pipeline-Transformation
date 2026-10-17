@@ -1,0 +1,5 @@
+source_code,source_description,june_population_lead_rows,june_spend_gbp,marketing_conversion_definition
+WEB,web_enquiry,120,3000,meeting_booked
+EVENT,event_badge_scan,140,7000,meeting_booked
+REFERRAL,customer_referral,35,500,meeting_booked
+PARTNER,partner_introduction,25,1000,meeting_booked

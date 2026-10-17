@@ -1,0 +1,13 @@
+lead_id,account_id,created_date,source_code,owner,recorded_status,next_action_date,contact_permission_record
+L001,C001,2026-06-01,WEB,Amir,qualified,2026-06-05,reference_held
+L002,C002,2026-06-02,EVENT,Beth,meeting,2026-06-10,unknown
+L003,C003,2026-06-03,WEB,Amir,qualified,2026-06-12,reference_held
+L004,C004,2026-06-04,REFERRAL,Dan,qualified,2026-06-15,unknown
+L005,C005,2026-06-08,EVENT,Beth,unqualified,,unknown
+L006,C006,2026-06-10,WEB,Dan,qualified,2026-06-19,reference_held
+L007,C007,2026-06-12,PARTNER,Amir,qualified,2026-06-24,review_needed
+L008,C009,2026-06-15,WEB,,new,,reference_held
+L009,C008,2026-06-16,EVENT,Beth,meeting,2026-06-22,unknown
+L010,C010,2026-06-18,REFERRAL,Dan,qualified,2026-06-26,unknown
+L011,C011,2026-06-23,WEB,Amir,new,2026-07-02,reference_held
+L012,C012,2026-06-26,EVENT,,new,,unknown

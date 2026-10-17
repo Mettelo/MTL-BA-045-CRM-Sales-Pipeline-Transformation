@@ -1,0 +1,4 @@
+source_option,setup_gbp,annual_gbp,included_seats,min_term_years,claimed_weeks,excluded_interface_estimate_gbp
+A,38000,16000,20,2,4,18000
+B,62000,24000,25,3,6,
+C,20000,6000,existing_licences,1,8,8000
